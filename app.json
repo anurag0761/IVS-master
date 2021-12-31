@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "IVS",
+    "slug": "IVS",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logoNeom.png",
+    "splash": {
+      "image": "./assets/logoNeom@2x.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logoNeom@3x.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
